@@ -1,0 +1,18 @@
+{
+    "zipCode": 2140,
+    "coord": {
+        "lon": 4.4533,
+        "lat": 51.1981
+    },
+    "weather": [
+        {
+            "id": 3,
+            "main": "Overcast",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "dt": "2019-09-12T23:00:00+00:00",
+    "temp": null
+}

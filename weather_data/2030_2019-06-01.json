@@ -1,0 +1,18 @@
+{
+    "zipCode": 2030,
+    "coord": {
+        "lon": 4.41631,
+        "lat": 51.2316
+    },
+    "weather": [
+        {
+            "id": 2,
+            "main": "Partly cloudy",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "dt": "2019-06-01T23:00:00+00:00",
+    "temp": null
+}

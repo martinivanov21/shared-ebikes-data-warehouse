@@ -1,0 +1,18 @@
+{
+    "zipCode": 2170,
+    "coord": {
+        "lon": 4.43409,
+        "lat": 51.2401
+    },
+    "weather": [
+        {
+            "id": 53,
+            "main": "Drizzle",
+            "description": "moderate drizzle",
+            "icon": "09d"
+        }
+    ],
+    "base": "stations",
+    "dt": "2019-09-22T21:00:00+00:00",
+    "temp": null
+}

@@ -1,0 +1,18 @@
+{
+    "zipCode": 2660,
+    "coord": {
+        "lon": 4.35336,
+        "lat": 51.1638
+    },
+    "weather": [
+        {
+            "id": 1,
+            "main": "Mainly clear",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "dt": "2019-09-10T23:00:00+00:00",
+    "temp": null
+}

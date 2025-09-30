@@ -1,0 +1,18 @@
+{
+    "zipCode": 2610,
+    "coord": {
+        "lon": 4.39391,
+        "lat": 51.1654
+    },
+    "weather": [
+        {
+            "id": 3,
+            "main": "Overcast",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "dt": "2019-02-18T23:00:00+00:00",
+    "temp": null
+}

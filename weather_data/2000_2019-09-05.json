@@ -1,0 +1,18 @@
+{
+    "zipCode": 2000,
+    "coord": {
+        "lon": 4.38765,
+        "lat": 51.2047
+    },
+    "weather": [
+        {
+            "id": 0,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "dt": "2019-09-05T23:00:00+00:00",
+    "temp": null
+}
